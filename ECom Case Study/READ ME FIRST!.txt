@@ -1,0 +1,3 @@
+Hello and thank you for checking out my design documents and website.
+
+The website was designed strictly in Axure 8. This is a case study in web design that I began working on during my off time while working in my prior place of employment. They were developing an E-Commerce solution and I had a fit of creativity and decided to make this case study. This website uses some design cues from the design at the place I used to work at, but also design cues from; Amazon, Barnes & Noble, and Autozone. 
